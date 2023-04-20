@@ -9,7 +9,7 @@ class Node {
         this.next = next;
     }
 }
-class LinkedList {
+public class LinkedList {
     Node root;
     public LinkedList() {
         this.root = null;
